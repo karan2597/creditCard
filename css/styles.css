@@ -20,14 +20,6 @@
     width: 60px;
 }
 
-/* CREDIT CARD IMAGE STYLING */
-.preload * {
-    -webkit-transition: none !important;
-    -moz-transition: none !important;
-    -ms-transition: none !important;
-    -o-transition: none !important;
-}
-
 .container {
     width: 100%;
     max-width: 400px;
