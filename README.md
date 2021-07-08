@@ -4,7 +4,7 @@ This project comprises of credit card layout using html/css & JS. In order to pr
 
 The project is distributed into css & JS folders. The CSS folders has all the different css files for different styles associated. The JS folder comprises of a single file which has entire JS interaction laid down.
 
-It is important to note that we have used 'Imask' from cdnjs library for better user interaction & to facilitate faster & more user-friendly interaction.
+It is important to note that we have used 'Imask' from cdnjs library for better user interaction & to facilitate faster & more user-friendly interaction. Also all svg have been included directly from w3schools and cloudafare links to display the icons.
 
 Steps to run:
 Just simply move over to the index.html file and double click to open in any browser.
